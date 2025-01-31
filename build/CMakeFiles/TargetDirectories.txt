@@ -1,7 +1,0 @@
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/TranslateAllLOLA.dir
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/edit_cache.dir
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/rebuild_cache.dir
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/list_install_components.dir
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/install.dir
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/install/local.dir
-/home/jdneff/Projects/Godot/translate_all_lola/build/CMakeFiles/install/strip.dir
