@@ -21,3 +21,23 @@ data_*/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+*.so
+*.dylib
+*.dll
